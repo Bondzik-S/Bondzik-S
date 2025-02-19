@@ -14,7 +14,7 @@
 📫 **Let's connect!**  
 - [LinkedIn](www.linkedin.com/in/sofiia-bondzik-004a342b8)  
 - [Telegram](https://t.me/sofiia_bondzik)  
-- [Email](sofiia.bondzik@gmail.com)  
+- Email: sofiia.bondzik@gmail.com
 
 
 <h3 align="left">Languages and Tools:</h3>
